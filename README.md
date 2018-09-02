@@ -1,8 +1,7 @@
 # Functional programming short tips
+---
 ## Basic concepts of functional programming
 
-
----
 ### 1. Purity
 An idea that functions in programming shouldn’t have side effects and should instead behave like functions in mathematics. A mathematical function is a type of equation that has at least one independent variable and one dependent variable, such as:
 ```
