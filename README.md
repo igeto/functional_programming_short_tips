@@ -1,4 +1,4 @@
-# functional_programming_short_tips
+# Functional programming short tips
 ## Basic concepts of functional programming
 
 
